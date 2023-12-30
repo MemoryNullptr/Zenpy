@@ -15,4 +15,4 @@
 | (✔) Alterar tradutor | (❌) Alterar tradutor |
 | (✔) Suporte para arrumar futuros erros | (❌) Suporte para arrumar futuros erros |
 | (✔) Obterá novos recursos e atualizações | (❌) Obterá novos recursos e atualizações |
-| (✔) Traduzir para multiplos idiomas | (❌) Traduzir para multiplos idiomas |
+| (✔) Traduzir para multiplos idiomas | (✔) Traduzir para multiplos idiomas |
